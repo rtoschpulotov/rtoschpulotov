@@ -13,9 +13,9 @@ Docker · MongoDB · Git
 - **Wohnungsmarktanalyse**: Teamprojekt mit rund 268.000 Mietanzeigen.
   Sternschema in PostgreSQL, Bereinigung mit PySpark, sieben Hypothesen.
   Mein Schwerpunkt: H2, H5 und H6.
-- **Olympia-Fallstudie**: Rund 216.000 Rohdatensätze in fünf normalisierte
-  Tabellen überführt, ERD, SQL-Skripte für Aufbau, Import und Validierung,
-  Dashboard.
+- **[Olympia-Fallstudie](https://github.com/rtoschpulotov/olympia-fallstudie)**: Rund 216.000
+  Rohdatensätze in fünf normalisierte Tabellen überführt, ERD, SQL-Skripte für Aufbau,
+  Import und Validierung, Dashboard.
 - **Stellenmarkt-Pipeline**: Python sammelt Data-Analyst-Stellen aus fünf
   Städten über die JSearch-API und speichert sie ohne Dubletten in MongoDB Atlas.
 
