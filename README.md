@@ -1,16 +1,26 @@
-## Hi there 👋
+# Rustam Toschpulotov
 
-<!--
-**rtoschpulotov/rtoschpulotov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Wirtschaftsinformatiker (B.Sc., Hochschule Offenburg) mit abgeschlossener
+Data-Analyst-Weiterbildung am Data Science Institute (2026).
+Ich suche eine Einstiegsstelle als Junior Data Analyst oder BI Analyst
+in der Region Karlsruhe.
 
-Here are some ideas to get you started:
+## Werkzeuge
+Python (pandas, Seaborn) · SQL / PostgreSQL · PySpark · Power BI · Tableau ·
+Docker · MongoDB · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ausgewählte Projekte
+- **Wohnungsmarktanalyse**: Teamprojekt mit rund 268.000 Mietanzeigen.
+  Sternschema in PostgreSQL, Bereinigung mit PySpark, sieben Hypothesen.
+  Mein Schwerpunkt: H2, H5 und H6.
+- **Olympia-Fallstudie**: Rund 216.000 Rohdatensätze in fünf normalisierte
+  Tabellen überführt, ERD, SQL-Skripte für Aufbau, Import und Validierung,
+  Dashboard.
+- **Stellenmarkt-Pipeline**: Python sammelt Data-Analyst-Stellen aus fünf
+  Städten über die JSearch-API und speichert sie ohne Dubletten in MongoDB Atlas.
+
+## Aktuell
+Vorbereitung auf PL-300 (Power BI Data Analyst).
+
+## Kontakt
+E-Mail: ru.to@outlook.de
