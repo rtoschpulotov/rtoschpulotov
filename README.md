@@ -16,8 +16,9 @@ Docker · MongoDB · Git
 - **[Olympia-Fallstudie](https://github.com/rtoschpulotov/olympia-fallstudie)**: Rund 216.000
   Rohdatensätze in fünf normalisierte Tabellen überführt, ERD, SQL-Skripte für Aufbau,
   Import und Validierung, Dashboard.
-- **Stellenmarkt-Pipeline**: Python sammelt Data-Analyst-Stellen aus fünf
-  Städten über die JSearch-API und speichert sie ohne Dubletten in MongoDB Atlas.
+- **[Stellenmarkt-Pipeline](https://github.com/rtoschpulotov/stellenmarkt-pipeline)**: Python sammelt
+  Data-Analyst-Stellen aus fünf Städten über die JSearch-API und speichert sie ohne Dubletten
+  in MongoDB Atlas.
 
 ## Aktuell
 Vorbereitung auf PL-300 (Power BI Data Analyst).
