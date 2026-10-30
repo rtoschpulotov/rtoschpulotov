@@ -10,9 +10,9 @@ Python (pandas, Seaborn) · SQL / PostgreSQL · PySpark · Power BI · Tableau �
 Docker · MongoDB · Git
 
 ## Ausgewählte Projekte
-- **Wohnungsmarktanalyse**: Teamprojekt mit rund 268.000 Mietanzeigen.
-  Sternschema in PostgreSQL, Bereinigung mit PySpark, sieben Hypothesen.
-  Mein Schwerpunkt: H2, H5 und H6.
+- **[Wohnungsmarktanalyse](https://github.com/rtoschpulotov/wohnungsmarktanalyse)**: Abschlussprojekt
+  im Team, rund 268.000 Mietinserate mit amtlichen Statistiken verknüpft. Mein Teil: Data Engineering
+  (Aufbereitung mit PySpark, Sternschema in PostgreSQL, Docker) und die Hypothesen H2, H5 und H6.
 - **[Olympia-Fallstudie](https://github.com/rtoschpulotov/olympia-fallstudie)**: Rund 216.000
   Rohdatensätze in fünf normalisierte Tabellen überführt, ERD, SQL-Skripte für Aufbau,
   Import und Validierung, Dashboard.
