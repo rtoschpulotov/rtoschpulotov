@@ -29,3 +29,4 @@ Vorbereitung auf PL-300 (Power BI Data Analyst)
 ## Kontakt
 
 E-Mail: ru.to@outlook.de
+LinkedIn: https://www.linkedin.com/in/rustam-toschpulotov-data/
